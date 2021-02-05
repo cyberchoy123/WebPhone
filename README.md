@@ -1,4 +1,4 @@
-# CyburPhone 2.5 based off ViciPhone 
+# CyberPhone 2.5 based off ViciPhone 
 
 An improved webphone for the Vicidial Call Center Suite.
 
